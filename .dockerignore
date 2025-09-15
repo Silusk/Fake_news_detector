@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.csv
+.ipynb_checkpoints/
+.git
+.gitignore
+*.swp
+*.swo
+.vscode/
+.idea/
+*.class
